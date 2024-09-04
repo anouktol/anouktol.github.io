@@ -6,6 +6,7 @@ body {
     color: #aa48a0;
     margin-left: 550px;
   }
-  li {
-    display: inline;
+  li a {
+    display: block;
+    width: 60px;
   }
