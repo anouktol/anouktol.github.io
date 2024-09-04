@@ -6,3 +6,6 @@ body {
     color: #aa48a0;
     margin-left: 0px;
   }
+  li {
+    display: inline;
+  }
