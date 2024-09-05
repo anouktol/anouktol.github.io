@@ -14,6 +14,12 @@ body {
     list-style-type: none;
     margin: 25px;
     padding: 50px;
-    border: rgb(166, 161, 161);
-    border-width: 10px;
+li {
+    float: left;
+}
+  a {
+    display: block;
+    padding: 8px;
+    background-color: rgb(201, 195, 195) 
+
   }
