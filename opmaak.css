@@ -12,7 +12,7 @@ body {
   }
   ul {
     list-style-type: none;
-    margin: 25;
+    margin: 25px;
     padding: 50px;
-    border: rgb(237, 235, 235);
+    border: rgb(228, 228, 228);
   }
