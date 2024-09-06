@@ -13,7 +13,8 @@ body {
   ul {
     list-style-type: none;
     margin: 0px;
-    padding: 0x;
+    padding: 0px;
+li {
     float: left;
 }
   a {
