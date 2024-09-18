@@ -14,18 +14,19 @@ body {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
+  }
 li {
     float: left;
 }
   a {
     display: block;
     padding: 8px;
-    background-color: rgb(215, 215, 215) 
+    background-color: rgb(215, 215, 215);
   }
 
   h2 {
     color:rgb(130, 26, 144); 
     margin-left: 0px;
     margin-bottom:0px;
-    
+
   }
