@@ -19,10 +19,11 @@ li {
  li a {
     display: block;
     padding: 50px, 21px;
-    /*text-align: center;
+    margin: 5px;
+    text-align: center;
     text-decoration: none;
     background-color:#DD9D7C;
-    color:whitesmoke;*/
+    color:whitesmoke;
   }
 
   h2 {
