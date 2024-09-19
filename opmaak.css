@@ -10,6 +10,8 @@ body {
     list-style-type: none;
     margin: 0px;
     padding: 0px;
+    width: 100%;
+    background-color: #DD9D7C;
   }
 li {
     float: left;
