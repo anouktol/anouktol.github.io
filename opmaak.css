@@ -6,11 +6,6 @@ body {
     color:#b33e80;
     margin-left: 550px;
   }
-  li a {
-    display: block;
-    width: 150x;
-    color:whitesmoke;
-  }
   ul {
     list-style-type: none;
     margin: 0px;
@@ -26,7 +21,7 @@ li {
     text-decoration: none;
     background-color:#DD9D7C;
     text-align: center;
-    color: black;
+    color:whitesmoke;
   }
 
   h2 {
