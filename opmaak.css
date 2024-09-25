@@ -52,3 +52,18 @@ border: #b33e80;
     margin-left: 9;
     border-radius: 10px;
   } /*Stukje tekst in de intro maar ander paragraaf*/
+
+  p {
+    font-size: large;
+    color:black;
+  }
+
+  .intro p {
+    font-size: large;
+    color: ghostwhite
+  }
+
+  .mezelf p {
+    font-size: large;
+    color: ghostwhite
+  }
