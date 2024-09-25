@@ -20,7 +20,7 @@ li {
  li a { /*hier staat alles over mijn menu*/
     display: block;
     padding: 50px, 21px;
-    margin: 2px;
+    margin: 3px;
     text-align: center;
     text-decoration: none;
     background-color:#DD9D7C; /*kleur van mijn menu*/
