@@ -32,6 +32,7 @@ li {
     color: rgb(145, 197, 132);
     margin-left: 5px;
     margin-bottom:0px;
+    text-shadow: 15px 15px 15px rgb(212, 167, 206);
   }
 
   .intro{
