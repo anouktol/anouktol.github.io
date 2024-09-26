@@ -12,7 +12,7 @@ body {
     margin: 0;
     padding: 20px;
     width: 100%; /*dit laat zien dat mijn menu van de ene kant van de pagina naar de andere kant van de pagina gaat horizontaal*/
-    background-color: pink;
+    background-color: rgb(236, 134, 151);
   }
 li {
     float: left;
@@ -23,7 +23,7 @@ li {
     margin: 3px;
     text-align: center;
     text-decoration: none;
-    background-color: pink; /*kleur van mijn menu*/
+    background-color: rgb(236, 134, 151); /*kleur van mijn menu*/
     color:whitesmoke; /*kleur van de letters in mijn menu*/
   }
 
@@ -46,7 +46,7 @@ li {
   .mezelf {
 width: 40%;
 border: #b33e80;
-    background-color: pink;
+    background-color: rgb(236, 134, 151);
     color: white;
     padding: 9px;
     margin-left: 9;
