@@ -39,7 +39,7 @@ li {
     background-color: rgb(236, 134, 151);
     color: white;
     padding: 9px;
-    margin-left: 9;
+    margin-left: 5px;
     border-radius: 10px;
   } /* Dit is de opmaak van mijn stukje tekst over mezelf, me intro.*/
 
@@ -49,17 +49,47 @@ border: #b33e80;
     background-color: rgb(236, 134, 151);
     color: white;
     padding: 9px;
-    margin-left: 9;
+    margin-left: 5px;
     border-radius: 10px;
   } /*Stukje tekst in de intro maar ander paragraaf*/
 
 .tientallig {
-  width: 70%;
+  width: 50%;
   border: #b33e80;
   background-color: rgb(236, 134, 151);
   color: white;
   padding: 9px;
-  margin-left: 9px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+
+.binair {
+width: 70%;
+border: #b33e80;
+background-color: rgb(236, 134, 151);
+color: white;
+padding: 9px;
+margin-left: 5px;
+border-radius: 10px;
+}
+
+.bit {
+  width: 60%;
+  border:#b33e80;
+  background-color: rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+
+.ascii {
+  width: 70%;
+  border:#b33e80;
+  background-color: rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
   border-radius: 10px;
 }
 
