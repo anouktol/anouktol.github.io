@@ -154,6 +154,46 @@ border-radius: 10px
   border-radius:10px;
 }
 
+.bitmap {
+  width: 90%;
+  border:#b33e80;
+  background-color:rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+
+.vector {
+  width: 90%;
+  border:#b33e80;
+  background-color:rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius:10px
+}
+
+.geluid {
+  width: 90%;
+  border:#b33e80;
+  background-color: rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px
+}
+
+.geluidtwee {
+  width: 90%;
+  border:#b33e80;
+  background-color:rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px
+}
+
   p {
     font-size: large;
     color:black;
