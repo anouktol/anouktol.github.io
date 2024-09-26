@@ -205,6 +205,15 @@ border-radius: 10px
   border-radius: 10px
 }
 
+.maker {
+  width: 100%;
+  background-color: rgb(145, 197, 132);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px;
+}
+
   p {
     font-size: large;
     color:black;
