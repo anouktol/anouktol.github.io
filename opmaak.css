@@ -3,7 +3,7 @@ body {
   }
   
   h1 { /*dit gaat over de titel van elke pagina die*/
-    color:#b33e80;
+    color: rgb(231, 158, 170);
     margin-left: 500px;
 
   }
@@ -28,7 +28,7 @@ li {
   }
 
   h2 { /*informatie over de kleur etc over de tussenkopjes*/
-    color:rgb(235, 172, 182); 
+    color:rgb(231, 158, 170); 
     margin-left: 0px;
     margin-bottom:0px;
   }
