@@ -23,12 +23,12 @@ li {
     margin: 3px;
     text-align: center;
     text-decoration: none;
-    background-color:#eebe83; /*kleur van mijn menu*/
+    background-color: pink; /*kleur van mijn menu*/
     color:whitesmoke; /*kleur van de letters in mijn menu*/
   }
 
   h2 { /*informatie over de kleur etc over de tussenkopjes*/
-    color:#b33e80; 
+    color:rgb(235, 172, 182); 
     margin-left: 0px;
     margin-bottom:0px;
   }
