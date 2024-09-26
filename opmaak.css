@@ -34,7 +34,7 @@ li {
   }
 
   .intro{
-    width: 40%;
+    width: 70%;
     border: #b33e80;
     background-color: rgb(236, 134, 151);
     color: white;
@@ -44,7 +44,7 @@ li {
   } /* Dit is de opmaak van mijn stukje tekst over mezelf, me intro.*/
 
   .mezelf {
-width: 40%;
+width: 70%;
 border: #b33e80;
     background-color: rgb(236, 134, 151);
     color: white;
