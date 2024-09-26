@@ -94,6 +94,26 @@ border-radius: 10px;
   border-radius: 10px;
 }
 
+.rgb {
+  width: 70%;
+  border:#b33e80;
+  background-color:rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px
+}
+
+.cym {
+  width:70%;
+  border:#b33e80;
+  background-color:rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10;
+}
+
   p {
     font-size: large;
     color:black;
