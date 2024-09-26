@@ -63,7 +63,7 @@ border: #b33e80;
     color: ghostwhite
   }
 
-  .mezelf  {
+  .mezelf p {
     font-size: large;
     color: ghostwhite
   }
@@ -78,10 +78,10 @@ border: #b33e80;
         border-radius: 10px;
       } /*Stukje tekst in de intro maar ander paragraaf*/
 
-      {
+      .tientallig {
         font-size: large;
         color: ghostwhite;
-      8}
+      }
 
 .binair p {
   width: 40%;
