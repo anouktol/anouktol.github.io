@@ -124,6 +124,16 @@ border-radius: 10px;
   border-radius: 10px;
 }
 
+.afbeelding {
+  width: 100%;
+  border:#b33e80;
+  background-color:rgb(236, 134, 151);
+  color:white;
+  padding: 9px;
+margin-left: 5px;
+border-radius: 10px
+}
+
   p {
     font-size: large;
     color:black;
