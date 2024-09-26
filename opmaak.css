@@ -97,7 +97,7 @@ border: #b33e80;
     margin-left: 9;
     border-radius: 10px;
   } /*Stukje tekst in de intro maar ander paragraaf*/
-  
+
 .ascii p {
   width: 40%;
 border: #b33e80;
@@ -107,3 +107,14 @@ border: #b33e80;
     margin-left: 9;
     border-radius: 10px;
   } /*Stukje tekst in de intro maar ander paragraaf*/
+
+.comp p {
+  width: 40%;
+  border: #b33e80;
+      background-color: rgb(236, 134, 151);
+      color: white;
+      padding: 9px;
+      margin-left: 9;
+      border-radius: 10px;
+    } /*Stukje tekst in de intro maar ander paragraaf*/
+
