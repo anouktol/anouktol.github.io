@@ -194,6 +194,16 @@ border-radius: 10px
   border-radius: 10px
 }
 
+.pixels {
+  width: 70%;
+  border:#b33e80;
+  background-color: rgb(236, 134, 151);
+  color: white;
+  padding: 9px;
+  margin-left: 5px;
+  border-radius: 10px
+}
+
   p {
     font-size: large;
     color:black;
