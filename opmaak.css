@@ -125,7 +125,7 @@ border-radius: 10px;
 }
 
 .afbeelding {
-  width: 100%;
+  width: 80%;
   border:#b33e80;
   background-color:rgb(236, 134, 151);
   color:white;
@@ -135,7 +135,7 @@ border-radius: 10px
 }
 
 .geluid {
-  width: 100%;
+  width: 80%;
   border:#b33e80;
   background-color: rgb(236, 134, 151);
   color: white;
