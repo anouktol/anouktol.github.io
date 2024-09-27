@@ -1,8 +1,8 @@
 body {
     background-color: rgb(250, 251, 235);
-  }
+  } /*achtergrond kleur*/
   
-  h1 { /*dit gaat over de titel van elke pagina die*/
+  h1 { /*dit gaat over de titel van elke pagina*/
     color: rgb(145, 197, 132);
     margin-left: 500px;
     text-shadow: 15px 15px 15px rgb(212, 167, 206);
@@ -43,7 +43,7 @@ li {
     padding: 9px;
     margin-left: 5px;
     border-radius: 10px;
-  } /* Dit is de opmaak van mijn stukje tekst over mezelf, me intro.*/
+  } /* je maakt hier een border om je stukje tekst heen*/
 
   .mezelf {
 width: 70%;
@@ -53,7 +53,7 @@ border: #b33e80;
     padding: 9px;
     margin-left: 5px;
     border-radius: 10px;
-  } /*Stukje tekst in de intro maar ander paragraaf*/
+  } /*je maakt hier een border om je stukje tekst heen*/
 
 .tientallig {
   width: 50%;
@@ -235,4 +235,4 @@ border-radius: 10px
   
   .vectorbitmap {
     margin-left: 400px
-  }
+  } /*afbeelding van vector en bitmap die nu midden onder tekst staat*/
