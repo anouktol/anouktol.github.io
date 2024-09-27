@@ -28,6 +28,7 @@ li a:hoover {
     margin: 3px;
     text-align: center;
     text-decoration: none;
+    font-size: large;
     background-color: rgb(236, 134, 151); /*kleur van mijn menu*/
     color:whitesmoke; /*kleur van de letters in mijn menu*/
   }
