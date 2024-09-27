@@ -231,8 +231,8 @@ border-radius: 10px
 
   p {
     text-align: left;
-  }
+  } /*de tekst onder het kopje staat links van de pagina*/
   
   .vectorbitmap {
-    margin-left: 500px
+    margin-left: 400px
   }
