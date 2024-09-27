@@ -20,7 +20,7 @@ li {
     float: left;
     }
 li a:hoover {
-  background-color: rgb(210, 122, 137)
+  background-color: rgb(210, 122, 137) /*als je met je muis over mijn menu gaat, zie je een donker roze kleur*/
 }
  li a { /*hier staat alles over mijn menu*/
     display: block;
